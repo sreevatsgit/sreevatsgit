@@ -64,7 +64,13 @@ Still not impressed? Well, let's blow your socks off 🧦... I taught myself all
 - 🗳️ A decentralized voting machine that allows users, parties and governments to have transparent and honest elections.
 - 🔗 EIP712 relayer that allows users to sign using meta transactions that enables gasless transactions for users.
 
+## Let's check some github statisitcs:
 
+![](https://c.tenor.com/6eM2in2KQNsAAAAC/big-shaq-statistics.gif)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sreevatsgit" alt="dart"/>
+
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreevatsgit&theme=vue">
 
 ### If you wanna chat with me you could go to my socials!
 
