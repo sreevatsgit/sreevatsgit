@@ -38,6 +38,9 @@ If you are wondering "How much does Sree know in programming?" Well....
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" alt="Solidity" width="25" height="25" />
+
+
 </p>
 
 Still not impressed? Well, let's blow your socks off 🧦... I taught myself all this 🧠🧠🧠🧠. And if I can do it? So can you! 
