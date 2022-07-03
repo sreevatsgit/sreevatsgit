@@ -3,14 +3,16 @@
 I'm Sreevatsan Komandur Sridhar aka. **Sree**!
 
 - 👨‍💻 I'm more or less a full stack developer. If you think the definition of it is [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) then yeah, I am exactly that LOL!
-- 💎 I'm also a gigachad web3 developer where I develop a bunch of smart contracts, DApps and, DAOs. I also teach people the entire ecosystem of the blockchain from a developer and a non-developer perspective over [here](https://bright-paletas-bdab6e.netlify.app/)
+- 💎 I'm also a gigachad web3 developer where I develop a bunch of smart contracts, DApps and, DAOs. I also teach people the entire ecosystem of the blockchain from a developer and a non-developer perspective over [BLockchain From Noob To Pro!](https://bright-paletas-bdab6e.netlify.app/)
 - 🌱 I work even with machine learning models using Tensorflow, Gensim and Sci-kit Learn.
 - Apart from sitting in front of the computer for prolonged hours, I am learning how to make and perfect sambar and rice (a south indian dish 🍛🍛) from my awesome mother (I'll send the recipie later lol)!
+- Stay hydrated 🌊🌊. Eat your Pottassium kiddos! 🍌🍌
 
 If you are wondering "How much does Sree know in programming?" Well....
 
 
 ### So these are the stuff that I know 
+
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -42,8 +44,8 @@ If you are wondering "How much does Sree know in programming?" Well....
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" alt="dart" width="25" height="25" />
 
 </p>
 
@@ -57,7 +59,14 @@ Still not impressed? Well, let's blow your socks off 🧦... I taught myself all
 - 🧩 Apiece.io: A unique NFT marketspace!
 - 📒 [Blockchain From Noob-to-Pro](https://bright-paletas-bdab6e.netlify.app/)
 
+### Stuff that I have done in the past
+- 🪙 An ERC-721 token using the Binance test net.
+- 🗳️ A decentralized voting machine that allows users, parties and governments to have transparent and honest elections.
+- 🔗 EIP712 relayer that allows users to sign using meta transactions that enables gasless transactions for users.
+
 
 
 ### If you wanna chat with me you could go to my socials!
 
+
+<a href="https://www.linkedin.com/in/sreevatsankomandur/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
