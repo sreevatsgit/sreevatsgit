@@ -1,6 +1,6 @@
 ## Hi there, 👋👋👋👋
 
-I'm Sreevatsan Komandur Sridhar aka. Sree!
+I'm Sreevatsan Komandur Sridhar aka. **Sree**!
 
 - 👨‍💻 I'm more or less a full stack developer. If you think the definition of it is [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) then yeah, I am exactly that LOL!
 - 💎 I'm also a gigachad web3 developer where I develop a bunch of smart contracts, DApps and, DAOs. I also teach people the entire ecosystem of the blockchain from a developer and a non-developer perspective over [here](https://bright-paletas-bdab6e.netlify.app/)
@@ -10,7 +10,7 @@ I'm Sreevatsan Komandur Sridhar aka. Sree!
 If you are wondering "How much does Sree know in programming?" Well....
 
 
-### I know stuff like
+### So these are the stuff that I know 
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
