@@ -66,7 +66,7 @@ Still not impressed? Well, let's blow your socks off 🧦... I taught myself all
 
 ## Let's check some github statisitcs:
 
-![](https://c.tenor.com/6eM2in2KQNsAAAAC/big-shaq-statistics.gif)
+![](https://c.tenor.com/dN3Vq02tfa8AAAAC/typing-jim-carrey.gif)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sreevatsgit" alt="dart"/>
 
