@@ -78,6 +78,10 @@ Still not impressed? Well, let's blow your socks off 🧦... I taught myself all
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sreevatsankomandur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/sreevatsankomandur?trk=profile-badge">Sreevatsan Komandur Sridhar</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sreevatsankomandur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/sreevatsankomandur?trk=profile-badge">
+Sreevatsan Komandur Sridhar
+</a>
+</div>
+              
               
 </span>
