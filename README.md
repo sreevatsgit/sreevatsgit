@@ -1,3 +1,5 @@
+<span style="font-family: Montserrat">
+
 ## Hi there, 👋👋👋👋
 
 I'm Sreevatsan Komandur Sridhar aka. **Sree**!
@@ -55,8 +57,8 @@ Still not impressed? Well, let's blow your socks off 🧦... I taught myself all
 
 ### What's cooking in the kitchen now?
 
-- 🍰 TiramisuDAO: A DAO that enables people to build and use marketing tools on the blockchain
-- 🧩 Apiece.io: A unique NFT marketspace!
+- 🍰 **TiramisuDAO**: A DAO that enables people to build and use marketing tools on the blockchain
+- 🧩 **Apiece.io**: A unique NFT marketspace!
 - 📒 [Blockchain From Noob-to-Pro](https://bright-paletas-bdab6e.netlify.app/)
 
 ### Stuff that I have done in the past
@@ -74,5 +76,8 @@ Still not impressed? Well, let's blow your socks off 🧦... I taught myself all
 
 ### If you wanna chat with me you could go to my socials!
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<a href="https://www.linkedin.com/in/sreevatsankomandur/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sreevatsankomandur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/sreevatsankomandur?trk=profile-badge">Sreevatsan Komandur Sridhar</a></div>
+              
+</span>
