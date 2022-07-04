@@ -70,9 +70,11 @@ Still not impressed? Well, let's blow your socks off 🧦... I taught myself all
 
 ![](https://c.tenor.com/dN3Vq02tfa8AAAAC/typing-jim-carrey.gif)
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreevatsgit" alt="dart"/>
 
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreevatsgit&theme=vue">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sreevatsgit&count_private=true&theme=tokyonight&showicons=true)]()
+
+
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreevatsgit&theme=tokyonight&showicons=true">
 
 ### If you wanna chat with me you could go to my socials!
 
