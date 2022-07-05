@@ -10,7 +10,7 @@ I'm Sreevatsan Komandur Sridhar aka. **Sree**!
 - Apart from sitting in front of the computer for prolonged hours, I am learning how to make and perfect sambar and rice (a south indian dish 🍛🍛) from my awesome mother (I'll send the recipie later lol)!
 - Stay hydrated 🌊🌊. Eat your Pottassium kiddos! 🍌🍌
 
-If you are wondering "How much does Sree know in programming?" Well....
+If you are wondering "How much does Sree know in programming?"
 
 
 ### So these are the stuff that I know 
