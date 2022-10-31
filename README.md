@@ -7,7 +7,7 @@ I'm Sreevatsan aka. **Sree**!
 - 👨‍💻 I'm more or less a full stack developer. If you think the definition of it is [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) then yeah, I am exactly that LOL!
 - 💎 I'm also a gigachad web3 developer where I develop a bunch of smart contracts, DApps and, DAOs. I also teach people the entire ecosystem of the blockchain from a developer and a non-developer perspective over [BLockchain From Noob To Pro!](https://bright-paletas-bdab6e.netlify.app/)
 - 🌱 I work even with machine learning models using Tensorflow, Gensim and Sci-kit Learn.
-- Apart from sitting in front of the computer for prolonged hours, I am learning how to make and perfect sambar and rice (a south indian dish 🍛🍛) from my awesome mother (I'll send the recipie later lol)!
+- Apart from sitting in front of the computer for prolonged hours, I like to play video games and watch one piece (I like stoned Admiral Borsalino Kizaru)
 - Stay hydrated 🌊🌊. Eat your Pottassium kiddos! 🍌🍌
 
 If you are wondering "How much does Sree know in programming?"
